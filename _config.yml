@@ -3,7 +3,7 @@ title: Code for Vallejo
 email: vallejo@codeforamerica.org
 description: >
   Coding for America, in Vallejo.
-baseurl: "/code_for_vallejo"
+baseurl: ""
 url: "http://codeforvallejo.org" # the base hostname & protocol for your site
 facebook_username: codeforvallejo
 # github_username:  codeforamerica
