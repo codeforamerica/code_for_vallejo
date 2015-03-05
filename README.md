@@ -1,5 +1,5 @@
 # Code for Vallejo
-[codeforvallejo.org](codeforvallejo.org) - A platform for Team Vallejo to share information and conduct outreach.
+[codeforvallejo.org](http://codeforvallejo.org) - A platform for Team Vallejo to share information and conduct outreach.
 
 #### Getting Started
 ```
