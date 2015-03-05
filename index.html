@@ -1,23 +1,40 @@
 ---
 layout: default
+home-title: "Hi, we're Team Vallejo."
+home-img: "http://placehold.it/480x240"
+home-desc: "This is a brief description about us."
 ---
 
 <div class="home">
+
+  <h2 class="home-banner">{{ page.home-title }}</h2>
+  <img class="home-img" src="{{ page.home-img | prepend: site.baseurl }}">
+
+  </br>
+
+  <h4 class="home-description">{{ page.home-desc }}</h4>
+
+  </br>
 
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-<!--         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <div class="preview-pane">
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+              <span class="preview-img-span"><img class="preview-img" src="{{ post.preview-image | prepend: site.baseurl }}"></span>
+              <div class="preview-text">
+                <h2><span class="preview-title">{{ post.title }}</span></h2>
+                <h6><span class="preview-snippet">{{ post.snippet }}</span></h6>
+              </div>
+            </a>
+          </div>
         </h2>
+
       </li>
     {% endfor %}
   </ul>
-
-
 
 </div>
