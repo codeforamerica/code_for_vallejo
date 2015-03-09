@@ -85,7 +85,6 @@ This is the descriptive narrative of the exercises people did. Some general phot
   <div><img class="carousel-image" src="assets/images/whatif_50.jpg"></div>
   <div><img class="carousel-image" src="assets/images/whatif_51.jpg"></div>
   <div><img class="carousel-image" src="assets/images/whatif_52.jpg"></div>
-<!--   <div><img class="carousel-image" src="assets/images/whatif_53.jpg"></div> -->
 
 </div>
 
@@ -94,7 +93,6 @@ This is the descriptive narrative of the exercises people did. Some general phot
 <h2>I Like...</h2>
 
 <div class="carousel">
-<!--   <div><img class="carousel-image" src="assets/images/ilike_0.jpg"></div> -->
   <div><img class="carousel-image" src="assets/images/ilike_1.jpg"></div>
   <div><img class="carousel-image" src="assets/images/ilike_2.jpg"></div>
   <div><img class="carousel-image" src="assets/images/ilike_3.jpg"></div>
