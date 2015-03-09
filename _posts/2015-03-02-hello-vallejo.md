@@ -85,7 +85,7 @@ This is the descriptive narrative of the exercises people did. Some general phot
   <div><img class="carousel-image" src="assets/images/whatif_50.jpg"></div>
   <div><img class="carousel-image" src="assets/images/whatif_51.jpg"></div>
   <div><img class="carousel-image" src="assets/images/whatif_52.jpg"></div>
-  <div><img class="carousel-image" src="assets/images/whatif_53.jpg"></div>
+<!--   <div><img class="carousel-image" src="assets/images/whatif_53.jpg"></div> -->
 
 </div>
 
