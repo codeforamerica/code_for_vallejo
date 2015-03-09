@@ -17,8 +17,8 @@ This is the descriptive narrative of the event.
 This is the descriptive narrative of the exercises people did. Some general photos of the event below.
 
 <div class="image-container">
-  <span><img class="img-cont-image" src="assets/images/codeacross_general_1.jpg"></span>
-  <span><img class="img-cont-image" src="assets/images/codeacross_general_2.jpg"></span>
+  <span><img class="img-cont-image" src="assets/images/codeacross_general_4.jpg"></span>
+  <span><img class="img-cont-image" src="assets/images/codeacross_general_5.jpg"></span>
 </div>
 
 <br/>
