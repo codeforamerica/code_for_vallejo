@@ -6,5 +6,15 @@
 .preview-img {}
 
 .home-banner { text-align: center; }
-.home-img { display: block; margin-left: auto; margin-right: auto; }
+.home-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    height: 480px;
+}
 .home-description {  text-align: center; }

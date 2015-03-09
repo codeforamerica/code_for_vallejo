@@ -11,23 +11,22 @@ During the course of the year, 3 fellows with backgrounds in web development, re
 <b>We want to hear from you.</b>
 During February, we met with representatives from City departments and community and faith based organizations including:
 
-Fighting Back
-Emmanuel Temple
-Kyles Temple
-This is Vallejo
-Participatory Budgeting Program
-NAACP Vallejo Chapter
-Neighborhood Watch groups
-BayTerrace Neighborhood Association
-Centro Latino
-Better Vallejo
-Transformation Vallejo
-Vallejo Unified School District
-Vallejo Greater Recreation District
-Champber of Commerce
-Black Chamber of Commerce
-[and the list goes on with each one linked. Maybe makes sense to have four columns or something like that? Columns for city, community, and faith-based groups?]
-. . . .
+* Fighting Back
+* Emmanuel Temple
+* Kyle's Temple
+* This is Vallejo
+* Participatory Budgeting Program
+* NAACP Vallejo Chapter
+* Neighborhood Watch groups
+* BayTerrace Neighborhood Association
+* Centro Latino
+* Better Vallejo
+* Transformation Vallejo
+* Vallejo Unified School District
+* Vallejo Greater Recreation District
+* Champber of Commerce
+* Black Chamber of Commerce
+
 If you represent or are a member of a Vallejoan community that we should be in touch with, please let us know so that we can make the connection. You can also send our surveys [create a page for surveys, link to it here] to your community members so that we can connect with them that way.
 
 Thank you!

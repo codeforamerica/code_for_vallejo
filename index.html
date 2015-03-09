@@ -1,7 +1,7 @@
 ---
 layout: default
 home-title: "Hi, we're Team Vallejo."
-home-img: "http://placekitten.com/g/480/240"
+home-img: assets/images/team_vallejo.jpg
 home-desc: "This is a brief description about us."
 ---
 
@@ -24,7 +24,7 @@ home-desc: "This is a brief description about us."
 
           <div class="preview-pane">
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-              <span class="preview-img-span"><img class="preview-img" src="{{ post.preview-image | prepend: site.baseurl }}"></span>
+              <span class="preview-img-span"><img class="preview-img" src="{{ post.preview-image | prepend: site.baseurl }}" width=240></span>
               <div class="preview-text">
                 <h2><span class="preview-title">{{ post.title }}</span></h2>
                 <h6><span class="preview-snippet">{{ post.snippet }}</span></h6>
