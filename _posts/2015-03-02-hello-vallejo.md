@@ -31,6 +31,12 @@ The first activity asked participants to place a sticker indicating where they s
 
 <br/> -->
 
+
+<h2>I Like..I Wish..What If..</h2>
+
+We asked participants to take a sticky note and write on it what they like about Vallejo, what they wish were different in Vallejo, imagine a what if scenario in Vallejo, and finally to write a headline they’d like to see in the newspaper this time, next year. Scroll through each section below to read everyone’s answers.
+
+
 <h2>What If...?</h2>
 
 Attendees thought of a “what if” scenario that might take place in Vallejo.
