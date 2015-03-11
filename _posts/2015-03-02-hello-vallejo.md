@@ -33,6 +33,8 @@ The first activity asked participants to place a sticker indicating where they s
 
 <h2>What If...?</h2>
 
+Attendees thought of a “what if” scenario that might take place in Vallejo.
+
 <div class="carousel">
   <div><img class="carousel-image" src="assets/images/whatif_0.jpg"></div>
   <div><img class="carousel-image" src="assets/images/whatif_1.jpg"></div>
@@ -93,6 +95,8 @@ The first activity asked participants to place a sticker indicating where they s
 <br>
 
 <h2>I Like...</h2>
+
+Attendees wrote down what they like about Vallejo.
 
 <div class="carousel">
   <div><img class="carousel-image" src="assets/images/ilike_1.jpg"></div>
