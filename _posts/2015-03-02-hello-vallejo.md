@@ -10,7 +10,7 @@ has_carousel: true
 
 <img class="post-home-img" src="{{ page.home-image | prepend: site.baseurl }}">
 
-This is the descriptive narrative of the event.
+CodeAcross was a national event held in 60 communities around the world. It is traditionally a civic hacking day, but in Vallejo we decided to make it all about the residents and their hopes and thoughts on how to improve the city. It was a way to connect the amazingly diverse communities in Vallejo in one spot, the Farmer’s Market, and share laughs, conversations, and ideas about how Code for America might be able to work with citizens to improve public safety through technology.
 
 <h2>What We Did.</h2>
 
