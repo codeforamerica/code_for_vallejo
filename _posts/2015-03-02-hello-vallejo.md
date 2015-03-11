@@ -14,7 +14,7 @@ CodeAcross was a national event held in 60 communities around the world. It is t
 
 <h2>What We Did.</h2>
 
-We set up in the empty lot of the Bank Building on 332 Georgia Street, right in the peak of the Farmer’s Market from 11am to 1pm. Attendees were greeted with balloons and Team Vallejo fellows Nikki, Andrew, and Jazmyn. We set up 5 tables for people to congregate around, express their perspectives in the activity and then discuss with those around them. The final table was rounded off with pizza as a thanks for participation and members of the local band New Hot Ice playing some fun blues and classic R&B tunes. 
+We set up in the empty lot of the Bank Building on 332 Georgia Street, right in the peak of the Farmer’s Market from 11am to 1pm. Attendees were greeted with balloons and Team Vallejo fellows Nikki, Andrew, and Jazmyn. We set up 5 tables for people to congregate around, express their perspectives in the activity and then discuss with those around them. The final table was rounded off with pizza as a thanks for participation and members of the local band New Hot Ice playing some fun blues and classic R&B tunes.
 
 <div class="image-container">
   <span><img class="img-cont-image" src="assets/images/codeacross_general_4.jpg"></span>
@@ -24,6 +24,8 @@ We set up in the empty lot of the Bank Building on 332 Georgia Street, right in 
 <br/>
 
 <!-- <h2>Where Do You Stand?</h2>
+
+The first activity asked participants to place a sticker indicating where they stand in a series of statements about Vallejo. At one end of the spectrum was “Agree”. At the other end of the spectrum was “Disagree”. The final result was a beautiful spectogram of all participants views on each statement, showing that things are not always black and white.
 
 <div><img class="carousel-image" src="http://placekitten.com/g/640/320"></div>
 
