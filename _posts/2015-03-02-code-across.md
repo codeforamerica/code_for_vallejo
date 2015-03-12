@@ -31,6 +31,12 @@ The first activity asked participants to place a sticker indicating where they s
 
 <br/> -->
 
+
+<h2>I Like..I Wish..What If..</h2>
+
+We asked participants to take a sticky note and write on it what they like about Vallejo, what they wish were different in Vallejo, imagine a what if scenario in Vallejo, and finally to write a headline they’d like to see in the newspaper this time, next year. Scroll through each section below to read everyone’s answers.
+
+
 <h2>What If...?</h2>
 
 Attendees thought of a “what if” scenario that might take place in Vallejo.
@@ -142,6 +148,31 @@ Attendees wrote down what they like about Vallejo.
   <div><img class="carousel-image" src="assets/images/ilike_41.jpg"></div>
 
 </div>
+
+<br>
+
+<h2>I Wish...</h2>
+
+Attendees wrote down what they wish was different in Vallejo.
+
+<br>
+
+<h2> Next Year's News Headline</h2>
+
+Attendees wrote down a hypothetical news headline for Vallejo, next year.
+
+<br>
+
+<h2> Where's Your Vallejo? </h2>
+
+During our month of residency we spoke to many people about their perspectives and experiences in Vallejo. We realized that everyone’s experience is different, but one common theme remained: they’re tired of hearing people talk so negatively about the place they call home. We decided to get CodeAcross participants to tell us what they loved about Vallejo by placing a sticker on the map at their most special place in the city and write down why. Click on the markers to see what they said.
+
+<br>
+
+<h2> How Might We...</h2>
+
+How might we improve Vallejo through technology? This was the final exercise at CodeAcross where participants could get creative and tell us their ideas about what we might be able to do this year with technology.
+
 
 <script>
 $(document).ready(function(){
