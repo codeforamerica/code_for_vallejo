@@ -23,14 +23,11 @@ We set up in the empty lot of the Bank Building on 332 Georgia Street, right in 
 
 <br/>
 
-<!-- <h2>Where Do You Stand?</h2>
+<h2>Where Do You Stand?</h2>
 
 The first activity asked participants to place a sticker indicating where they stand in a series of statements about Vallejo. At one end of the spectrum was “Agree”. At the other end of the spectrum was “Disagree”. The final result was a beautiful spectogram of all participants views on each statement, showing that things are not always black and white.
 
-<div><img class="carousel-image" src="http://placekitten.com/g/640/320"></div>
-
-<br/> -->
-
+<br/>
 
 <h2>I Like..I Wish..What If..</h2>
 
@@ -149,30 +146,27 @@ Attendees wrote down what they like about Vallejo.
 
 </div>
 
-<br>
+<br/>
 
 <h2>I Wish...</h2>
 
 Attendees wrote down what they wish was different in Vallejo.
 
-<br>
+<br/>
 
 <h2> Next Year's News Headline</h2>
 
 Attendees wrote down a hypothetical news headline for Vallejo, next year.
 
-<br>
+<br/>
 
 <h2> Where's Your Vallejo? </h2>
 
 During our month of residency we spoke to many people about their perspectives and experiences in Vallejo. We realized that everyone’s experience is different, but one common theme remained: they’re tired of hearing people talk so negatively about the place they call home. We decided to get CodeAcross participants to tell us what they loved about Vallejo by placing a sticker on the map at their most special place in the city and write down why. Click on the markers to see what they said.
 
-<br>
-
 <h2> How Might We...</h2>
 
 How might we improve Vallejo through technology? This was the final exercise at CodeAcross where participants could get creative and tell us their ideas about what we might be able to do this year with technology.
-
 
 <script>
 $(document).ready(function(){
