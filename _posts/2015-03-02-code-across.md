@@ -3,7 +3,7 @@ layout:  post
 title:   "Code Across"
 date:    2015-03-02 00:00:00
 preview-image: assets/images/codeacross_general_0.jpg
-snippet: What we learned and saw at CodeAcross.
+snippet: CodeAcross was a national event held in 60 communities around the world. In Vallejo, we decided to make it all about the residents and their hopes and thoughts on how to improve the city.
 home-image: assets/images/codeacross_general_0.jpg
 has_carousel: true
 ---
