@@ -10,31 +10,71 @@ We're Nikki, Jazmyn and Andrew and we have backgrounds in social science researc
 
 Organizations that we've learned from so far include:
 
-[break into columns here]
+<div class="table-container">
+<table>
+    <tr>
+        <td>Fighting Back Partnership</td>
+        <td>Vallejo Unified School District</td>
+    </tr>
+    <tr>
+        <td>Emmanuel Temple</td>
+        <td>Participatory Budgeting Project</td>
+    </tr>
+    <tr>
+        <td>Kyle's Temple</td>
+        <td>Solano County</td>
+    </tr>
+    <tr>
+        <td>NAACP Vallejo Chapter</td>
+        <td>Vallejo Greater Recreation District</td>
+    </tr>
+    <tr>
+        <td>Neighborhood Watch groups</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Better Vallejo</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>This is Vallejo</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Transformation Vallejo</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Chamber of Commerce</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>BayTerrace Neighborhood Association</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Centro Latino</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Black Chamber of Commerce</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>Omega Boys and Girls Club</td>
+        <td> </td>
+    </tr>
+</table>
+</div>
 
-* Fighting Back Partnership
-* Emmanuel Temple
-* Kyle's Temple
-* This is Vallejo
-* Participatory Budgeting Program
-* NAACP Vallejo Chapter
-* Neighborhood Watch groups
-* BayTerrace Neighborhood Association
-* Centro Latino
-* Better Vallejo
-* Transformation Vallejo
-* Vallejo Unified School District
-* Vallejo Greater Recreation District
-* Chamber of Commerce
-* Black Chamber of Commerce
-* Participatory Budgeting Project
-* Omega Boys and Girls Club
-* Solano County
+<br/>
 
-If you want your community to be a part of this project, or if you believe that we've overlooked any Vallejoans who would want to participate in this project, please let us know at vallejo@codeforamerica.org.
+<p>If you want your community to be a part of this project, or if you believe that we've overlooked any Vallejoans who would want to participate in this project, please let us know at vallejo@codeforamerica.org.</p>
+
 
 <b>CODE FOR AMERICA</b>
-Code for America Fellowships build technological tools that make city governments work "for the people, by the people in the 21st century." This year, teams of three have been assigned to work with 8 different U.S. cities to help them redesign systems that govern business development, healthcare access, procurement, food distribution, and public safety. We want to improve ways that residents interact with their cities. You can read more about fellowship projects developed in previous years <a href=" http://www.codeforamerica.org/apps/;>here</a>.
+
+Code for America Fellowships build technological tools that make city governments work "for the people, by the people in the 21st century." This year, teams of three have been assigned to work with 8 different U.S. cities to help them redesign systems that govern business development, healthcare access, procurement, food distribution, and public safety. We want to improve ways that residents interact with their cities. You can read more about fellowship projects developed in previous years [here](http://www.codeforamerica.org/apps/).
 
 
 Thank you!
