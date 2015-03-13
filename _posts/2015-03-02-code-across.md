@@ -164,6 +164,31 @@ Attendees wrote down a hypothetical news headline for Vallejo, next year.
 
 During our month of residency we spoke to many people about their perspectives and experiences in Vallejo. We realized that everyone’s experience is different, but one common theme remained: they’re tired of hearing people talk so negatively about the place they call home. We decided to get CodeAcross participants to tell us what they loved about Vallejo by placing a sticker on the map at their most special place in the city and write down why. Click on the markers to see what they said.
 
+<div id="map" style="height: 480px">
+
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script>
+
+// create a map in the "map" div, set the view to a given place and zoom
+
+var map = L.map("map").setView([38.1143065, -122.22839765], 12);
+
+L.tileLayer("http://{s}.tile.stamen.com/toner-lite/{z}/{x}/{y}.jpg",{minZoom:12,maxZoom:18,opacity:0.75,attribution:'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'})
+.addTo(map);
+
+d3.json("./assets/code_across_map_data.json",function(err,data){
+    data.forEach( function(d) {
+        L.marker([d.lat, d.lon]).addTo(map)
+            .bindPopup(d.text);
+    });
+});
+
+
+</script>
+</div>
+
 <h2> How Might We...</h2>
 
 How might we improve Vallejo through technology? This was the final exercise at CodeAcross where participants could get creative and tell us their ideas about what we might be able to do this year with technology.
