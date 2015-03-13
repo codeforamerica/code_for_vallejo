@@ -3,7 +3,7 @@ layout:  post
 title:   "Code Across"
 date:    2015-03-02 00:00:00
 preview-image: assets/images/codeacross_general_0.jpg
-snippet: What we learned and saw at CodeAcross.
+snippet: CodeAcross was a national event held in 60 communities around the world. In Vallejo, we decided to make it all about the residents and their hopes and thoughts on how to improve the city.
 home-image: assets/images/codeacross_general_0.jpg
 has_carousel: true
 ---
@@ -17,8 +17,8 @@ CodeAcross was a national event held in 60 communities around the world. It is t
 We set up in the empty lot of the Bank Building on 332 Georgia Street, right in the peak of the Farmer’s Market from 11am to 1pm. Attendees were greeted with balloons and Team Vallejo fellows Nikki, Andrew, and Jazmyn. We set up 5 tables for people to congregate around, express their perspectives in the activity and then discuss with those around them. The final table was rounded off with pizza as a thanks for participation and members of the local band New Hot Ice playing some fun blues and classic R&B tunes.
 
 <div class="image-container">
-  <span><img class="img-cont-image" src="assets/images/codeacross_general_4.jpg"></span>
-  <span><img class="img-cont-image" src="assets/images/codeacross_general_5.jpg"></span>
+  <img class="img-cont-image" src="assets/images/codeacross_general_4.jpg">
+  <img class="img-cont-image" src="assets/images/codeacross_general_5.jpg">
 </div>
 
 <br/>
@@ -172,7 +172,6 @@ How might we improve Vallejo through technology? This was the final exercise at 
 $(document).ready(function(){
   $('.carousel').slick({
     slidesToShow: 1,
-    dots: true,
     accessibility: true
   });
 });

@@ -1,14 +1,24 @@
 ---
 layout: default
 home-title: "Hi, we're Team Vallejo."
-home-img: assets/images/codeacross_general_3.jpg
 home-desc: "This year Code for America is partnering with the city of Vallejo to work on improving public safety through technology. In order to do this, we are spending time with Vallejo residents, learning about their perspectives and needs, and using our new relationships to find and build the right technology to help."
 ---
 
 <div class="home">
 
   <h2 class="home-banner">{{ page.home-title }}</h2>
-  <img class="home-img" src="{{ page.home-img | prepend: site.baseurl }}">
+
+  <div class="image-container">
+    <img class="img-cont-image" src="assets/images/codeacross_general_3.jpg">
+    <img class="img-cont-image" src="assets/images/bay_terrace_meeting.jpg">
+  </div>
+
+  <br/>
+
+  <div class="image-container">
+    <img class="img-cont-image" src="assets/images/rolled_map.jpg">
+    <img class="img-cont-image" src="assets/images/codeacross_general_6.jpg">
+  </div>
 
   </br>
 
@@ -16,7 +26,7 @@ home-desc: "This year Code for America is partnering with the city of Vallejo to
 
   </br>
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">What we're up to</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
