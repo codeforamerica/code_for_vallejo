@@ -275,6 +275,12 @@ d3.json("./assets/code_across_map_data.json",function(err,data){
 
 How might we improve Vallejo through technology? This was the final exercise at CodeAcross where participants could get creative and tell us their ideas about what we might be able to do this year with technology.
 
+<br>
+
+<h2> Thanks to all who came! </h2>
+
+
+
 <script>
 $(document).ready(function(){
   $('.carousel').slick({
