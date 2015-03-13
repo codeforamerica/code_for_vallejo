@@ -1,9 +1,9 @@
 .preview-pane { display: table; }
-.preview-img-span { display: table-cell; width: 40%; height: auto; max-width: 320px; }
+.preview-img-span { display: table-cell; width: 30%; }
 .preview-text { display: table-cell; vertical-align: top; padding: 0px 20px; }
 .preview-title { display: table-row; }
 .preview-snippet { display: table-row; }
-.preview-img {}
+.preview-img { height: auto; max-width: 280px; }
 
 .home-banner { text-align: center; }
 .home-img {

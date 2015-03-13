@@ -34,11 +34,15 @@ home-desc: "This year Code for America is partnering with the city of Vallejo to
 
           <div class="preview-pane">
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-              <span class="preview-img-span"><img class="preview-img" src="{{ post.preview-image | prepend: site.baseurl }}" width=240></span>
+              <span class="preview-img-span">
+                <img class="preview-img" src="{{ post.preview-image | prepend: site.baseurl }}">
+                </span>
+<!--               <div style="right: 400px"> -->
               <div class="preview-text">
                 <h2><span class="preview-title">{{ post.title }}</span></h2>
                 <h6><span class="preview-snippet">{{ post.snippet }}</span></h6>
               </div>
+<!--               </div> -->
             </a>
           </div>
         </h2>
