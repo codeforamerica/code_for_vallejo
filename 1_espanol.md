@@ -1,6 +1,6 @@
 ---
 layout: page
-title: En Espa&ntilde;ol
+alt_title: En Espa&ntilde;ol
 permalink: /espanol/
 ---
 
