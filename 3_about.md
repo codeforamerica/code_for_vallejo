@@ -6,7 +6,9 @@ permalink: /about/
 
 Welcome to the official website for Code for America's 2015 Fellowship team working with the City of Vallejo, California.
 
-We're Nikki, Jazmyn and Andrew and we have backgrounds in social science research, law, design, and web development. You can learn more about our individual bios [here](http://www.codeforamerica.org/governments/vallejo/). But this project is also very much about you.
+For 2015, we will be building digital tools intended to help make Vallejoans feel safer in the City. We spent February living in Vallejo and meeting with government, community and faith leaders to learn more about public safety issues impacting Vallejo residents. For the rest of the year, we will work from Code for America's San Francisco office while making frequent visits to Vallejo for feedback and collaboration.
+
+We're Nikki, Jazmyn and Andrew and we have backgrounds in social science research, law, design, and web development. You can learn more about our individual bios [here](http://www.codeforamerica.org/governments/vallejo/).
 
 Organizations that we've learned from so far include:
 
@@ -69,7 +71,7 @@ Organizations that we've learned from so far include:
 
 <br/>
 
-<p>If you want your community to be a part of this project, or if you believe that we've overlooked any Vallejoans who would want to participate in this project, please let us know at vallejo@codeforamerica.org.</p>
+<p>If you want your community to be a part of this project, you can reach us at vallejo@codeforamerica.org.</p>
 
 
 <b>CODE FOR AMERICA</b>
