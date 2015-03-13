@@ -152,17 +152,124 @@ Attendees wrote down what they like about Vallejo.
 
 Attendees wrote down what they wish was different in Vallejo.
 
+<div class="carousel">
+  <div><img class="carousel-image" src="assets/images/i_wish_0.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_1.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_2.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_3.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_4.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_5.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_6.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_7.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_8.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_9.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_10.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_11.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_12.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_13.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_14.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_15.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_16.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_17.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_18.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_19.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_20.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_21.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_22.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_23.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_24.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_25.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_26.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_27.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_28.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_29.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_30.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_31.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_32.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_33.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_34.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_35.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_36.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_37.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_38.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_39.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_40.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_41.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_42.jpg"></div>
+
+</div>
+
 <br/>
 
 <h2> Next Year's News Headline</h2>
 
 Attendees wrote down a hypothetical news headline for Vallejo, next year.
 
+<div class="carousel">
+  <div><img class="carousel-image" src="assets/images/headline_0.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_1.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_2.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_3.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_4.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_5.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_6.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_7.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_8.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_9.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_10.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_11.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_12.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_14.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_15.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_16.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_17.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_18.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_19.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_20.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_21.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_22.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_23.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_24.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_25.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_26.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_27.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_28.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_29.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_30.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_31.jpg"></div>
+
+</div>
+
 <br/>
 
 <h2> Where's Your Vallejo? </h2>
 
 During our month of residency we spoke to many people about their perspectives and experiences in Vallejo. We realized that everyone’s experience is different, but one common theme remained: they’re tired of hearing people talk so negatively about the place they call home. We decided to get CodeAcross participants to tell us what they loved about Vallejo by placing a sticker on the map at their most special place in the city and write down why. Click on the markers to see what they said.
+
+<div id="map" style="height: 480px">
+
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script>
+
+// create a map in the "map" div, set the view to a given place and zoom
+
+var map = L.map("map").setView([38.1143065, -122.22839765], 12);
+
+L.tileLayer("http://{s}.tile.stamen.com/toner-lite/{z}/{x}/{y}.jpg",{minZoom:12,maxZoom:18,opacity:0.75,attribution:'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'})
+.addTo(map);
+
+d3.json("./assets/code_across_map_data.json",function(err,data){
+    data.forEach( function(d) {
+        L.marker([d.lat, d.lon]).addTo(map)
+            .bindPopup(d.text);
+    });
+});
+
+
+</script>
+</div>
 
 <h2> How Might We...</h2>
 
