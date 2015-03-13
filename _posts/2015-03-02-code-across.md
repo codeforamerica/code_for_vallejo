@@ -152,11 +152,93 @@ Attendees wrote down what they like about Vallejo.
 
 Attendees wrote down what they wish was different in Vallejo.
 
+<div class="carousel">
+  <div><img class="carousel-image" src="assets/images/i_wish_0.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_1.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_2.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_3.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_4.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_5.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_6.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_7.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_8.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_9.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_10.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_11.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_12.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_13.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_14.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_15.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_16.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_17.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_18.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_19.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_20.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_21.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_22.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_23.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_24.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_25.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_26.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_27.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_28.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_29.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_30.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_31.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_32.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_33.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_34.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_35.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_36.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_37.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_38.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_39.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_40.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_41.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/i_wish_42.jpg"></div>
+
+</div>
+
 <br/>
 
 <h2> Next Year's News Headline</h2>
 
 Attendees wrote down a hypothetical news headline for Vallejo, next year.
+
+<div class="carousel">
+  <div><img class="carousel-image" src="assets/images/headline_0.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_1.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_2.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_3.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_4.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_5.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_6.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_7.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_8.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_9.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_10.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_11.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_12.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_14.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_15.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_16.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_17.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_18.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_19.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_20.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_21.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_22.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_23.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_24.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_25.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_26.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_27.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_28.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_29.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_30.jpg"></div>
+  <div><img class="carousel-image" src="assets/images/headline_31.jpg"></div>
+
+</div>
 
 <br/>
 
