@@ -1,8 +1,8 @@
-.carousel { width: 90%; display: block; margin-right: auto; margin-left: auto; height: 380px; }
+.carousel { width: 90%; display: block; margin-right: auto; margin-left: auto; }
 .slick-prev:before, .slick-next:before { 
     color: #2E8AE6;
 }
-.carousel-image { display: block; margin-right: auto; margin-left: auto; }
+.carousel-image { display: block; margin-right: auto; margin-left: auto; width: 50%; height: auto; max-width: 360px;}
 .image-container { display: block; margin-left: auto; margin-right: auto; }
-.post-home-img { display: block; margin-left: auto; margin-right: auto; }
-.img-cont-image { padding: 0px 20px; width: 320px;}
+.post-home-img { display: block; margin-left: auto; margin-right: auto; width: 100%; height: auto; max-width: 720px;}
+.img-cont-image { padding: 0px 3%; width: 43%; height: auto; max-width: 360px; }

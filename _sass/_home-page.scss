@@ -1,5 +1,5 @@
 .preview-pane { display: table; }
-.preview-img-span { display: table-cell; }
+.preview-img-span { display: table-cell; width: 40%; height: auto; max-width: 320px; }
 .preview-text { display: table-cell; vertical-align: top; padding: 0px 20px; }
 .preview-title { display: table-row; }
 .preview-snippet { display: table-row; }
@@ -10,6 +10,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 480px;
+    width: 100%;
+    max-width: 720px;
+    height: auto;
 }
 .home-description {  text-align: center; }
