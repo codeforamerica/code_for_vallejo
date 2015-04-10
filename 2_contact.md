@@ -16,7 +16,7 @@ Follow us on [facebook](https://facebook.com/codeforvallejo).
        We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="//facebook.us10.list-manage.com/subscribe/post?u=9e91b9d2e303f5cb10426711f&amp;id=0a1067ac28" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="//codeforamerica.us2.list-manage.com/subscribe/post?u=d9acf2a4c694efbd76a48936f&amp;id=d71135bae4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
     <h2>Subscribe to our mailing list</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
